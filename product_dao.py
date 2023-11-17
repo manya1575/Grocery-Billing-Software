@@ -1,3 +1,11 @@
+'''
+Grocery Billing software
+
+Members:
+Vaidehi Mishra (RA2311003011168)
+Manya Sivasalapathy (RA2311003011205)
+'''
+
 from sql_connection import get_sql_connection
 
 def get_all_products(connection):
